@@ -1,0 +1,5 @@
+@article{REPO-218,
+    author = "Wang, W. and Xie, E. and Li, X. and Fan, D. P. and Shao, L.",
+    title = "{Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions}",
+    year = "2021"
+}
